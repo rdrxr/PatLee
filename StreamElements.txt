@@ -1,3 +1,5 @@
+https://streamelements.com/djpatlee/commands/custom?sortBy=accessLevel&order=asc
+
 # Deutsch
 !command edit hug GoldPLZ ${1} bekommt von ${sender} eine herzliche Umarmung❣️ TakeNRG
 !command edit djloben GoldPLZ ${sender} findet, dass Pät wieder einen grandiosen Job für uns macht!!! CurseLit TwitchUnity CurseLit Pät wurde schon ${count djloben} mal gelobt!!! TakeNRG
@@ -6,6 +8,9 @@
 !command edit lurk hey $(sender), hier wird nicht gelurkt CoolCat Nein Spass, geniess die Musik ❣️
 !command edit modsloben ${source}, findet dass die ganze Modtruppe (@missis__Lee, @MaryJane1964, @MacKusi und @RogerWilco sowie unser Ehrenmod @seilennalee) hier einen super Job machen...❣️❣️❣️ Dᴀɴᴋᴇ ꜱᴄʜöɴ für das Lob ${source} im Namen vom ganzen Mod-Team 🤗🤗🤗🥰🥰🥰😘😘😘
 !command edit prost ${1} plündert mit ${source} die Bar und schnappt sich ein frisches Quellwasser! Pröschtli in den/die Stuhlkreis/Barhocker Runde 🍵🥛🍸🍷🍺🍹🍼☕
+
+# nur für Mods
+!command edit mlurk $(sender) schwirrt schnell ab, kommt aber gleich wieder. GoldPLZ Bittet die Community zwischenzeitlich keinen Blödsinn zu machen ShazBotstix
 !command edit so 📢 ${user} macht grandiose Streams hier auf Twitch 📢 FutureMan Bitte schaut schnell mal bei https://www.twitch.tv/${channel ${1}} vorbei und lasst einen Follow da TwitchUnity Merci
 !command edit vinyl Ein mal pro Woche (oder öfter) kramt Pät aus dem Wildmountain-Archiv eine Platte hervor. Natürlich mit einer (kleinen) Hintergrundgeschichte dazu. Et voilà, die 💟 𝙑𝙞𝙣𝙮𝙡 𝙙𝙚𝙧 𝙒𝙤𝙘𝙝𝙚 💟 Wir lassen uns Überraschen TwitchUnity
 
@@ -17,5 +22,9 @@
 !command edit lurk hey $(sender), bi üs wird doch nid eifach so glurkt CoolCat Nei, machä doch blos Spass, gnüss d'Musig ❣️
 !command edit modsloben ${source}, findet dass diä ganz Modtruppä (@missis__Lee, @MaryJane1964, @MacKusi und @RogerWilco und üseri Ehrämod @seilennalee) än super Job mached...❣️❣️❣️ Dᴀɴᴋᴇ ꜱᴄʜö für's Lob ${source} im Name vom ganze Mod-Team 🤗🤗🤗🥰🥰🥰😘😘😘
 !command edit prost ${1} plündärät mit ${source} d'Bar und schnappt sich es früsches Quöllwässerli! Pröschtli id Rundi 🍵🥛🍸🍷🍺🍹🍼☕
+
+# nur für Mods
+!command edit mlurk fehlt, wohl aber unnötig 
 !command edit so 📢 ${user} macht grandiosi Streams uf Twitch 📢 FutureMan Luäget doch bitte gschnäll mal bi https://www.twitch.tv/${channel ${1}} innä und las en Follow detä TwitchUnity Merci
 !command edit vinyl Ein mol pro Wuchä (oder öfter) grabt dä Pät us äm Wildmountain-Archiv ä Plattä usä, zämä mit ere (chlinä) Hintergrundgeschicht. Et voilà, 💟 𝙑𝙞𝙣𝙮𝙡 𝙙𝙚𝙧 𝙒𝙤𝙘𝙝𝙚 💟 Mir lönd Eus Überraschä TwitchUnity
+
