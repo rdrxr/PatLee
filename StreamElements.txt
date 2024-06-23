@@ -8,6 +8,7 @@ https://streamelements.com/djpatlee/commands/custom?sortBy=accessLevel&order=asc
 !command edit lurk hey $(sender), hier wird nicht gelurkt CoolCat Nein Spass, geniess die Musik ❣️
 !command edit modsloben ${source}, findet dass die ganze Modtruppe (@missis__Lee, @MaryJane1964, @MacKusi und @RogerWilco sowie unser Ehrenmod @seilennalee) hier einen super Job machen...❣️❣️❣️ Dᴀɴᴋᴇ ꜱᴄʜöɴ für das Lob ${source} im Namen vom ganzen Mod-Team 🤗🤗🤗🥰🥰🥰😘😘😘
 !command edit prost ${1} plündert mit ${source} die Bar und schnappt sich ein frisches Quellwasser! Pröschtli in den/die Stuhlkreis/Barhocker Runde 🍵🥛🍸🍷🍺🍹🍼☕
+!command edit info /announcegreen Pät Streamt jeden Montag (Melodic House) und Donnerstag (Melodic Techno) jeweils ab 19.00 Uhr
 
 # nur für Mods
 !command edit mlurk $(sender) schwirrt schnell ab, kommt aber gleich wieder. GoldPLZ Bittet die Community zwischenzeitlich keinen Blödsinn zu machen ShazBotstix
