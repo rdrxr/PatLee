@@ -9,12 +9,14 @@ https://streamelements.com/djpatlee/commands/custom?sortBy=accessLevel&order=asc
 !command edit modsloben ${source}, findet dass die ganze Modtruppe (@missis__Lee, @MaryJane1964, @MacKusi und @RogerWilco sowie unser Ehrenmod @seilennalee) hier einen super Job machen...❣️❣️❣️ Dᴀɴᴋᴇ ꜱᴄʜöɴ für das Lob ${source} im Namen vom ganzen Mod-Team 🤗🤗🤗🥰🥰🥰😘😘😘
 !command edit prost ${1} plündert mit ${source} die Bar und schnappt sich ein frisches Quellwasser! Pröschtli in den/die Stuhlkreis/Barhocker Runde 🍵🥛🍸🍷🍺🍹🍼☕
 
-!command edit info /announcegreen Pät Streamt jeden Mᴏɴᴛᴀɢ (Melodic House) und Dᴏɴɴᴇʀꜱᴛᴀɢ (Melodic Techno) jeweils ab 19.00 Uhr
+!command edit info /announcegreen Pät Streamt jeden Mᴏɴᴛᴀɢ (Melodic House) und Dᴏɴɴᴇʀꜱᴛᴀɢ (Melodic Techno) jeweils ab 19.00 Uhr. Wobei manchmal auch ein Montag zu einem kleinen Donnerstag wird 😉
 
 # nur für Mods
 !command edit mlurk $(sender) schwirrt schnell ab, kommt aber gleich wieder. GoldPLZ Bittet die Community zwischenzeitlich keinen Blödsinn zu machen ShazBotstix
 !command edit so 📢 ${user} macht grandiose Streams hier auf Twitch 📢 FutureMan Bitte schaut schnell mal bei https://www.twitch.tv/${channel ${1}} vorbei und lasst einen Follow da TwitchUnity Merci
 !command edit vinyl Ein mal pro Woche (oder öfter) kramt Pät aus dem Wildmountain-Archiv eine Platte hervor. Natürlich mit einer (kleinen) Hintergrundgeschichte dazu. Et voilà, die 💟 𝙑𝙞𝙣𝙮𝙡 𝙙𝙚𝙧 𝙒𝙤𝙘𝙝𝙚 💟 Wir lassen uns Überraschen TwitchUnity
+
+
 
 # Schweizerdeutsch
 !command edit hug GoldPLZ ${1} chunt vom ${sender} ä Umarmig über, wiä wänn sichs 10 Johr nümmä gseh hetted❣️ TakeNRG
