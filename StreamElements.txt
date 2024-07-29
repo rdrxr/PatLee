@@ -28,7 +28,7 @@ https://streamelements.com/djpatlee/commands/custom?sortBy=accessLevel&order=asc
 !command edit prost ${1} plündärät mit ${source} d'Bar und schnappt sich es früsches Quöllwässerli! Pröschtli id Rundi 🍵🥛🍸🍷🍺🍹🍼☕
 !command edit hugall $(sender) schnappt sich jedä do im Stream und knuddlet än komplett durä  🤗🤗🤗 ❣️❣️
 
-# nur für Mods
+# nur für Mods Schweizerdeutsch
 !command edit so 📢 ${user} macht grandiosi Streams uf Twitch 📢 FutureMan Luäget doch bitte gschnäll mal bi https://www.twitch.tv/${channel ${1}} innä und las en Follow detä TwitchUnity Merci
 !command edit vinyl Ein mol pro Wuchä (oder öfter) grabt dä Pät us äm Wildmountain-Archiv ä Plattä usä, zämä mit ere (chlinä) Hintergrundgeschicht. Et voilà, 💟 𝙑𝙞𝙣𝙮𝙡 𝙙𝙚𝙧 𝙒𝙤𝙘𝙝𝙚 💟 Mir lönd Eus Überraschä TwitchUnity
 
