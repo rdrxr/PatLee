@@ -18,7 +18,7 @@ https://streamelements.com/djpatlee/commands/custom?sortBy=accessLevel&order=asc
 
 
 # Schweizerdeutsch
-!command edit hug GoldPLZ ${1} chunt vo ${sender} ä Umarmig über, wiä wänn sichs 10 Johr nümmä gseh hetted❣️ TakeNRG
+!command edit hug GoldPLZ ${1} chunt vo ${sender} ä Umarmig über, wiä wänn sichs ${random.7-15} Johr nümmä gseh hetted❣️ TakeNRG
 !command edit djloben GoldPLZ ${sender} findet, dass dä Pät än affägeile Job für üs macht!!! CurseLit TwitchUnity CurseLit dä Pät isch scho ${count djloben} Mal globt wordä!!! TakeNRG
 !command edit comloben ${user} gwünnt dä ${random.2-4}ti Pries bim Lobä vo Euserä Community ;) Geil, scho ${channel.viewers} Lüt am Zuäluägä TwitchUnity Schön, sind er alli da! TwitchUnity
 !command edit dc Discord, händ mer au: luägsch mal bi https://discord.gg/hwfgNJZUBx innä ❣️
