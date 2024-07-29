@@ -10,16 +10,15 @@ https://streamelements.com/djpatlee/commands/custom?sortBy=accessLevel&order=asc
 !command edit prost ${1} plündert mit ${source} die Bar und schnappt sich ein frisches Quellwasser! Pröschtli in den/die Stuhlkreis/Barhocker Runde 🍵🥛🍸🍷🍺🍹🍼☕
 !command edit hugall $(sender) macht sich über jeden Einzelnen hier im Stream her, ${random.pick 'beisst ein Mal rein, hmm lecker 😋 und knuddelt ES/SIE/IHN TwitchUnity 𝙰𝚋𝚎𝚛 𝙼𝚊𝚕 𝚂𝚘 𝚁𝚒𝚌𝚑𝚝𝚒𝚐 𝙳𝚘𝚕𝚕𝚎 𝙳𝚞𝚛𝚌𝚑 🤗🤗🤗 ❣️❣️' 'piep piep, hab Euch lieb 🤗🤗🤗 ❣️❣️ (ꙅoᴙᴙY, dɘi ꟻoxY gɘklAUT )'}
 
-!command edit info /announcegreen Pät Streamt jeden Mᴏɴᴛᴀɢ (Melodic House) und Dᴏɴɴᴇʀꜱᴛᴀɢ (Melodic Techno) jeweils ab 19.00 Uhr. Wobei manchmal auch ein Montag zu einem kleinen Donnerstag wird 😉
-
 # nur für Mods
 !command edit mlurk $(sender) schwirrt schnell ab, kommt aber gleich wieder. GoldPLZ Bittet die Community zwischenzeitlich keinen Blödsinn zu machen ShazBotstix
 !command edit so 📢 ${user} macht grandiose Streams hier auf Twitch 📢 FutureMan Bitte schaut schnell mal bei https://www.twitch.tv/${channel ${1}} vorbei und lasst einen Follow da TwitchUnity Merci
 !command edit vinyl Ein mal pro Woche (oder öfter) kramt Pät aus dem Wildmountain-Archiv eine Platte hervor. Natürlich mit einer (kleinen) Hintergrundgeschichte dazu. Et voilà, die 💟 𝙑𝙞𝙣𝙮𝙡 𝙙𝙚𝙧 𝙒𝙤𝙘𝙝𝙚 💟 Wir lassen uns Überraschen TwitchUnity
 
 
+
 # Schweizerdeutsch
-!command edit hug GoldPLZ ${1} chunt vom ${sender} ä Umarmig über, wiä wänn sichs 10 Johr nümmä gseh hetted❣️ TakeNRG
+!command edit hug GoldPLZ ${1} chunt vo ${sender} ä Umarmig über, wiä wänn sichs 10 Johr nümmä gseh hetted❣️ TakeNRG
 !command edit djloben GoldPLZ ${sender} findet, dass dä Pät än affägeile Job für üs macht!!! CurseLit TwitchUnity CurseLit dä Pät isch scho ${count djloben} Mal globt wordä!!! TakeNRG
 !command edit comloben ${user} gwünnt dä ${random.2-4}ti Pries bim Lobä vo Euserä Community ;) Geil, scho ${channel.viewers} Lüt am Zuäluägä TwitchUnity Schön, sind er alli da! TwitchUnity
 !command edit dc Discord, händ mer au: luägsch mal bi https://discord.gg/hwfgNJZUBx innä ❣️
@@ -33,9 +32,9 @@ https://streamelements.com/djpatlee/commands/custom?sortBy=accessLevel&order=asc
 !command edit so 📢 ${user} macht grandiosi Streams uf Twitch 📢 FutureMan Luäget doch bitte gschnäll mal bi https://www.twitch.tv/${channel ${1}} innä und las en Follow detä TwitchUnity Merci
 !command edit vinyl Ein mol pro Wuchä (oder öfter) grabt dä Pät us äm Wildmountain-Archiv ä Plattä usä, zämä mit ere (chlinä) Hintergrundgeschicht. Et voilà, 💟 𝙑𝙞𝙣𝙮𝙡 𝙙𝙚𝙧 𝙒𝙤𝙘𝙝𝙚 💟 Mir lönd Eus Überraschä TwitchUnity
 
-
 #### keine Übersetzung, macht wohl auch keinen Sinn !!
-# !command edit mlurk
-# !command edit info  
+!command edit info /announcegreen Pät Streamt jeden Mᴏɴᴛᴀɢ (Melodic House) und Dᴏɴɴᴇʀꜱᴛᴀɢ (Melodic Techno) jeweils ab 19.00 Uhr. Wobei manchmal auch ein Montag zu einem kleinen Donnerstag wird 😉
 
-
+#### felt noch, könnte man...
+!raid mit einem Raidtext
+!brett
