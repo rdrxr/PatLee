@@ -30,7 +30,7 @@ https://streamelements.com/djpatlee/commands/custom?sortBy=accessLevel&order=asc
 # nur für Mods Schweizerdeutsch
 !command edit mlurk $(sender) schwirrt gschnäll ab, chunt aber gad wieder. GoldPLZ bitte kei Seich machä i dä Zwüscheziet ShazBotstix
 !command edit so 📢 ${user} macht grandiosi Streams uf Twitch 📢 FutureMan Luäget doch bitte gschnäll mal bi https://www.twitch.tv/${channel ${1}} innä und las en Follow detä TwitchUnity Merci
-!command edit vinyl Ein mol pro Wuchä (oder öfter) grabt dä Pät us äm Wildmountain-Archiv ä Plattä usä, zämä mit ere (chlinä) Hintergrundgeschicht. Et voilà, 💟 𝗱'𝗩𝗶𝗻𝘆𝗹 𝘃𝗼 𝗱𝗿 𝗪𝘂𝗰𝗵𝗲 💟 Mir lönd Eus Überraschä TwitchUnity
+!command edit vinyl Ein mol pro Wuchä (oder öfter) grabt dä Pät us äm Wildmountain-Archiv ä Plattä usä, zämä mit ere (chlinä) Hintergrundgeschicht. Et voilà, d'💟 𝙑𝙞𝙣𝙮𝙡 𝙫𝙤 𝙙𝙧 𝙒𝙪𝙘𝙝𝙚 💟 Mir lönd Eus Überraschä TwitchUnity
 
 #### keine Übersetzung, macht wohl auch keinen Sinn !!
 !command edit info /announcegreen Pät Streamt jeden Mᴏɴᴛᴀɢ (Melodic House) und Dᴏɴɴᴇʀꜱᴛᴀɢ (Melodic Techno) jeweils ab 19.00 Uhr. Wobei manchmal auch ein Montag zu einem kleinen Donnerstag wird 😉
