@@ -9,6 +9,7 @@ https://streamelements.com/djpatlee/commands/custom?sortBy=accessLevel&order=asc
 !command edit modsloben ${source}, findet dass die ganze Modtruppe (@missis__Lee, @MaryJane1964, @MacKusi und @RogerWilco sowie unser Ehrenmod @seilennalee) hier einen super Job machen...❣️❣️❣️ Dᴀɴᴋᴇ ꜱᴄʜöɴ für das Lob ${source} im Namen vom ganzen Mod-Team 🤗🤗🤗🥰🥰🥰😘😘😘
 !command edit prost ${1} plündert mit ${source} die Bar und schnappt sich ein frisches Quellwasser! Pröschtli in den/die Stuhlkreis/Barhocker Runde 🍵🥛🍸🍷🍺🍹🍼☕
 !command edit hugall $(sender) macht sich über jeden Einzelnen hier im Stream her, ${random.pick 'beisst ein Mal rein, hmm lecker 😋 und knuddelt ES/SIE/IHN TwitchUnity 𝙰𝚋𝚎𝚛 𝙼𝚊𝚕 𝚂𝚘 𝚁𝚒𝚌𝚑𝚝𝚒𝚐 𝙳𝚘𝚕𝚕𝚎 𝙳𝚞𝚛𝚌𝚑 🤗🤗🤗 ❣️❣️' 'piep piep, hab Euch lieb 🤗🤗🤗 ❣️❣️ (ꙅoᴙᴙY, dɘi ꟻoxY gɘklAUT )'}
+--> hugall durch grouphug ersetzten
 
 # nur für Mods
 !command edit mlurk $(sender) schwirrt schnell ab, kommt aber gleich wieder. GoldPLZ Bittet die Community zwischenzeitlich keinen Blödsinn zu machen ShazBotstix
@@ -26,6 +27,7 @@ https://streamelements.com/djpatlee/commands/custom?sortBy=accessLevel&order=asc
 !command edit modsloben ${source}, findet dass diä ganz Modtruppä (@missis__Lee, @MaryJane1964, @MacKusi und @RogerWilco und üseri Ehrämod @seilennalee) än super Job mached...❣️❣️❣️ Dᴀɴᴋᴇ ꜱᴄʜö für's Lob ${source} im Name vom ganze Mod-Team 🤗🤗🤗🥰🥰🥰😘😘😘
 !command edit prost ${1} plündärät mit ${source} d'Bar und schnappt sich es früsches Quöllwässerli! Pröschtli id Rundi 🍵🥛🍸🍷🍺🍹🍼☕
 !command edit hugall $(sender) schnappt sich jedä do im Stream und knuddlet än komplett durä  🤗🤗🤗 ❣️❣️
+--> hugall durch grouphug ersetzten
 
 # nur für Mods Schweizerdeutsch
 !command edit mlurk $(sender) schwirrt gschnäll ab, chunt aber gad wieder. GoldPLZ bitte kei Seich machä i dä Zwüscheziet ShazBotstix
