@@ -46,6 +46,8 @@ https://streamelements.com/djpatlee/commands/custom?sortBy=accessLevel&order=asc
 # Aliase
 !command alias add !stinkycheese stinkyglitch
 !command alias add !hugall grouphug
+!command alias add !modsloben modloben
+
 
 #### felt noch, könnte man...
 !raid mit einem Raidtext
