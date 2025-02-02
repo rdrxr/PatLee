@@ -43,6 +43,7 @@ https://streamelements.com/djpatlee/commands/custom?sortBy=accessLevel&order=asc
 # Aliase
 !command alias add !stinkycheese stinkyglitch
 !command alias add !hugall grouphug
+!command alias add !hugall hugalle 
 !command alias add !modsloben modloben
 !command alias add !djloben brett
 
