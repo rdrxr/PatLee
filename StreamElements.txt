@@ -49,3 +49,7 @@ https://streamelements.com/djpatlee/commands/custom?sortBy=accessLevel&order=asc
 
 #### felt noch, könnte man...
 !raid mit einem Raidtext
+
+### Rechte / Level ###
+https://docs.streamelements.com/chatbot/commands/default/level#user-level-values
+!cmd options !vinyl -level 400 
